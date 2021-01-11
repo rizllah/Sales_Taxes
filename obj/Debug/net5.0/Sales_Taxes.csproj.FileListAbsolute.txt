@@ -1,0 +1,16 @@
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes.deps.json
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes.runtimeconfig.json
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes.runtimeconfig.dev.json
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes.dll
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/ref/Sales_Taxes.dll
+/home/princecharles/WEBDEV/Sales_Taxes/bin/Debug/net5.0/Sales_Taxes.pdb
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.csprojAssemblyReference.cache
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.GeneratedMSBuildEditorConfig.editorconfig
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.AssemblyInfoInputs.cache
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.AssemblyInfo.cs
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.csproj.CoreCompileInputs.cache
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.dll
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/ref/Sales_Taxes.dll
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.pdb
+/home/princecharles/WEBDEV/Sales_Taxes/obj/Debug/net5.0/Sales_Taxes.genruntimeconfig.cache
